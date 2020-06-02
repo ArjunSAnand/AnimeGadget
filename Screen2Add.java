@@ -97,7 +97,7 @@ public class Screen2Add {
 		textField.setBounds(364, 92, 203, 25);
 		textField.setFont(new Font("Tahoma", Font.PLAIN, 15));
 		// textField.setText("Enter Kickassanime Url Here");
-		textField.setText("https://www.kickassanime.rs/anime/kami-no-tou-346996");
+		textField.setText("Eneter Kickassanime URL here:");
 		frame.getContentPane().add(textField);
 		textField.setColumns(10);
 
