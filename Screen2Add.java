@@ -1,3 +1,10 @@
+/* AnimeGadget
+* P: to add shows that you are watching
+* June 1st 2020
+* Arjun Anand
+* Screen2Add.java
+*/ 
+
 package ISP;
 
 import java.awt.EventQueue;
