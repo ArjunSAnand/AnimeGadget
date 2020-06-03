@@ -1,3 +1,11 @@
+/* AnimeGadget
+* P: to view & play shows you are currently watching
+* June 1st 2020
+* Arjun Anand
+* Screen3Watching.java
+*/ 
+
+
 package ISP;
 
 import java.awt.EventQueue;
