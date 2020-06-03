@@ -1,3 +1,11 @@
+/* AnimeGadget
+* P: to view the release schedule and favourite shows
+* June 1st 2020
+* Arjun Anand
+* Screen4Upcoming.java
+*/ 
+
+
 package ISP;
 
 import java.awt.EventQueue;
