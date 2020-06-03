@@ -1,3 +1,11 @@
+/* AnimeGadget
+* P: to play chill music in the background
+* June 1st 2020
+* Arjun Anand
+* ScreenLofi.java
+*/ 
+
+
 package ISP;
 
 import java.awt.EventQueue;
