@@ -62,6 +62,7 @@ public class ScreenOptions {
 		frame = new JFrame();
 		frame.setBounds(100, 100, 809, 623);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.setResizable(false);
 		frame.setDefaultCloseOperation(WindowConstants.HIDE_ON_CLOSE);
 
 		frame.getContentPane().setLayout(null);
