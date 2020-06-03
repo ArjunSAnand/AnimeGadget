@@ -1,3 +1,10 @@
+/* AnimeGadget
+* P: to customize the user interface
+* June 1st 2020
+* Arjun Anand
+* ScreenOptions.java
+*/ 
+
 package ISP;
 
 import java.awt.EventQueue;
