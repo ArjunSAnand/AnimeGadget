@@ -169,7 +169,7 @@ public class Screen4Upcoming {
 		frame = new JFrame();
 		frame.setBounds(100, 100, 777, 655);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
+		frame.setResizable(false);
 		frame.setDefaultCloseOperation(WindowConstants.HIDE_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
 
