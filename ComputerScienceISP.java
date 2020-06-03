@@ -95,6 +95,7 @@ public class ComputerScienceISP {
 	private void initialize() throws IOException {
 		frame = new JFrame();
 		frame.setBounds(100, 100, 871, 634);
+		frame.setResizable(false);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 		JPanel panel = new JPanel();
