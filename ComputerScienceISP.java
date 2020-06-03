@@ -1,3 +1,10 @@
+/* AnimeGadget
+* P: to view the PDT time and have access to all other screens
+* June 1st 2020
+* Arjun Anand
+* ComputerScienceISP.java
+*/ 
+
 package ISP;
 
 import java.awt.EventQueue;
